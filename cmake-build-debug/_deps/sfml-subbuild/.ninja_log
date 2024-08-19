@@ -1,0 +1,21 @@
+# ninja log v5
+1	48	7457798586362139	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	272d62103429a2c4
+1	48	7457798586362139	C:/Users/Henrique/Documents/projects/cpp/2d_game_engine/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	272d62103429a2c4
+48	15841	7457798744286852	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	9b5710750b8ffd20
+48	15841	7457798744286852	C:/Users/Henrique/Documents/projects/cpp/2d_game_engine/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	9b5710750b8ffd20
+15841	17354	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	a1a4d96164c0a545
+15841	17354	0	C:/Users/Henrique/Documents/projects/cpp/2d_game_engine/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	a1a4d96164c0a545
+17354	17395	7457798759824118	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	5ffd8f2630c226a4
+17354	17395	7457798759824118	C:/Users/Henrique/Documents/projects/cpp/2d_game_engine/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	5ffd8f2630c226a4
+17395	17433	7457798760203120	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	13247e3a722d1445
+17395	17433	7457798760203120	C:/Users/Henrique/Documents/projects/cpp/2d_game_engine/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	13247e3a722d1445
+17433	17472	7457798760595184	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	3d1281148376115a
+17433	17472	7457798760595184	C:/Users/Henrique/Documents/projects/cpp/2d_game_engine/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	3d1281148376115a
+17472	17512	7457798760999607	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	83ed4e2bd741b101
+17472	17512	7457798760999607	C:/Users/Henrique/Documents/projects/cpp/2d_game_engine/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	83ed4e2bd741b101
+17512	17552	7457798761396110	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	5a83bfb4b0ca7ffa
+17512	17552	7457798761396110	C:/Users/Henrique/Documents/projects/cpp/2d_game_engine/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	5a83bfb4b0ca7ffa
+17552	17606	7457798761934210	CMakeFiles/sfml-populate-complete	1f9a26873f44188
+17552	17606	7457798761934210	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	1f9a26873f44188
+17552	17606	7457798761934210	C:/Users/Henrique/Documents/projects/cpp/2d_game_engine/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	1f9a26873f44188
+17552	17606	7457798761934210	C:/Users/Henrique/Documents/projects/cpp/2d_game_engine/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	1f9a26873f44188
